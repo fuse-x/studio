@@ -1,6 +1,6 @@
-# <img src="img/logo.png" width="216" alt="fuse X 2021" />
+# <p align="center"><img src="img/logo.png" width="216" alt="fuse X 2021" /></p>
 
-<img src="img/screenshot.png" width="744" alt="fuse X 2021" />
+<p align="center"><img src="img/screenshot.png" width="744" alt="Fuse Studio" /></p>
 
 > **Fuse Studio** is a visual desktop tool suite for working with the [**Fuse Open**](https://fuseopen.com/) framework, on **macOS** and **Windows**.
 
