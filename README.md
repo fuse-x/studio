@@ -15,3 +15,9 @@ Please see [our releases](https://github.com/fuse-x/studio/releases) for availab
 ## Issues
 
 Please report issues [here](https://github.com/fuse-x/studio/issues).
+
+## Source code
+
+The source code is available for contributors. Please <a href="mailto:support@fuse-x.com">contact us</a> for details.
+
+<img class="release-badge" src="https://img.shields.io/badge/license-NDA-yellow?style=flat-square">
