@@ -6,7 +6,7 @@
 
 <p align="center"><img src="https://github.com/fuse-x/studio/raw/master/img/screenshot.png" width="744" alt="fuse X" /></p>
 
-> [**fuse X**](https://fuse-x.com/) is a visual desktop tool suite for working with the [**Fuse Open**](https://fuseopen.com/) framework, on **macOS** and **Windows**.
+> [**Fuse X**](https://fuse-x.com/) is a visual desktop tool suite for working with the [**Fuse Open**](https://fuseopen.com/) framework, on **macOS** and **Windows**.
 
 ## Download
 
